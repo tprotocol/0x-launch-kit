@@ -13,7 +13,7 @@
 
 ## Introduction
 
-Launch a 0x relayer in under a minute with Launch Kit. This repository contains an open-source, free-to-use 0x relayer template that you can use as a starting point for your own project.
+Launch a 0x relayer in under a minute with Launch Kit. This repository contains an open-source, free-to-use Tx relayer template that you can use as a starting point for your own project.
 
 -   Quickly launch a market for your community token
 -   Seemlessly create an in-game marketplace for digital items and collectibles
